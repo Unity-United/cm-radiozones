@@ -27,7 +27,7 @@ It also has interact-sound integration with a connect and disconnect sound.
 * Hackable features to create deadzones across the map (Super fun for heists!)
 
 
-### Dependencys
+### Dependencies
 
 
 * [PS-Zones](https://github.com/Project-Sloth/ps-zones)
