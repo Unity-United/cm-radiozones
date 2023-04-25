@@ -9,6 +9,6 @@ shared_scripts {
     'config.lua'
 }
 
-client_script 'client/main.lua'
+client_script 'client/client.lua'
 
 lua54 'yes'
