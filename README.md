@@ -10,6 +10,11 @@ It saves the prior radio frequency so when you leave the deadzone it auto connec
 
 It also has interact-sound integration with a connect and disconnect sound.
 
+# Preview
+
+![alt text](https://cdn.discordapp.com/attachments/1018208922848468992/1100267860267384942/Screenshot_2023-04-24_233504.png)
+![alt text](https://cdn.discordapp.com/attachments/1018208922848468992/1100267860879745084/Screenshot_2023-04-24_233453.png)
+
 # How does it work?
 
 * Grab the coordinates of a area you want a deadzone
