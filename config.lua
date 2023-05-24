@@ -1,14 +1,14 @@
 Config = {}
 
 Config.RadioDeadZones = {
-    ["legion"] = {
-        name = "legionsquare", 
-        coords = vector3(179.69, -969.78, 29.58),
-        radius = 50,
-        debug = true,        
+    ["chilliad"] = {
+        name = "chilliad", 
+        coords = vector3(983.03, 5076.15, 377.26),
+        radius = 150,
+        debug = true,      
         data = {
-            minZ = 27.00,
-            maxZ = 30.00,
+            minZ = 62.00,
+            maxZ = 823.00,
         }
     },
     -- ["example"] = { -- Name
